@@ -8,7 +8,9 @@
 
 
 {% for thispage in site.pages %}
+{% if thispage.url != "/index.html" %}
 <li><a href="{{site.baseurl}}{{ thispage.url }}">{{ thispage.title }}</a></li>
+{% endif %}
 {% endfor %}
 </body>
 </html>
