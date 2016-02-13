@@ -7,7 +7,7 @@ ingredients:
   curry paste:
     1 cup : cilantro leaves
     6 cloves : garlic, coarsely chopped
-    1 : jalapeño chile, chopped
+    1 : jalapeno chile, chopped
     1 tbs : grated fresh ginger
     1 tsp : ground turmeric
     1 tsp : vegetable or peanut oil
@@ -19,7 +19,7 @@ ingredients:
     2 tsp : vegetable or peanut oil
     1/4 cup : thinly sliced fresh ginger
     3 cloves : garlic, peeled and smashed
-    8 oz. curly kale, roughly chopped (4 cups)
+    8 oz : curly kale, roughly chopped
     1 tbs : soy sauce
   garnish:
     1/4 cup : chopped roasted peanuts, optional
