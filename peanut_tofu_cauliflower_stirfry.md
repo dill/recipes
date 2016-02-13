@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Crispy Peanut Tofu & Cauliflower Rice Stir Fry
+title: Crispy peanut tofu and cauliflower rice stir fry
 source: http://minimalistbaker.com/crispy-peanut-tofu-cauliflower-rice-stir-fry/
 serves: 2
 ingredients:
