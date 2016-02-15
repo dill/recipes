@@ -3,6 +3,7 @@ layout: recipe
 title: Crispy peanut tofu and cauliflower rice stir fry
 source: http://minimalistbaker.com/crispy-peanut-tofu-cauliflower-rice-stir-fry/
 serves: 2
+keyword: main
 ingredients:
   stirfry:
     340g : extra firm tofu

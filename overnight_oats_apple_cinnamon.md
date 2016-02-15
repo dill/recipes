@@ -3,6 +3,7 @@ layout: recipe
 title: Overnight oats - apple and cinnamon
 source: http://www.theyummylife.com/recipes/221
 serves: 1 (make 1 pint ice cream tub-ish)
+keywords: breakfast
 ingredients:
   oats:
     1/2 cup : uncooked old fashioned rolled oats

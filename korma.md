@@ -3,6 +3,7 @@ layout: recipe
 title: Sweet potato, chickpea, spinach and almond korma
 source: ???
 serves: 2
+keywords: main
 ingredients:
   curry:
     1 : onion

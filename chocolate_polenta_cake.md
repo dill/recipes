@@ -3,6 +3,7 @@ layout: recipe
 title: Chocolate-orange polenta cake
 source: Some UK newspaper?
 serves: ??? (1x20cm cake)
+keywords: dessert, cake
 ingredients:
   Cake:
     200g : unsalted butter diced plus extra for the tin

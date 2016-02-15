@@ -3,6 +3,7 @@ layout: recipe
 title: Coconut noodles with ginger kale
 source: http://www.vegetariantimes.com/recipe/coconut-soba-noodles-with-ginger-kale/
 serves: 4
+keywords: main
 ingredients:
   curry paste:
     1 cup : cilantro leaves

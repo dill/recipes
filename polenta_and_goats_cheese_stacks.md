@@ -3,6 +3,7 @@ layout: recipe
 title: "Polenta & goat's cheese stacks"
 source: http://www.bbcgoodfood.com/recipes/147605/polenta-and-goats-cheese-stacks
 serves: 6
+keywords: main
 ingredients:
   veg:
     850g : squash, peeled

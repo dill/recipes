@@ -3,6 +3,7 @@ layout: recipe
 title: Xmas cake
 source: Family recipe
 serves: ???
+keywords: christmas, cake, dessert
 ingredients:
   cake:
     1lb : mixed fruit

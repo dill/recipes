@@ -3,6 +3,7 @@ layout: recipe
 title: Tomato curry
 source: Family recipe
 serves: 2?
+keywords: main
 ingredients:
   curry:
     40g : butter

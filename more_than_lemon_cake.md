@@ -3,6 +3,7 @@ layout: recipe
 title: More than lemon cake
 source: Family recipe
 serves: 4
+keywords: dessert
 ingredients:
   pudding:
     2oz : butter
