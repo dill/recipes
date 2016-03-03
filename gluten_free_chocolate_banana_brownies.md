@@ -2,7 +2,7 @@
 layout: recipe
 title: Gluten free chocolate and banana brownies
 source: adapted from https://www.dovesfarm.co.uk/recipes/gluten-free-chocolate-brownie/
-serves: ?
+serves: depends
 ingredients:
   brownies:
     120g : chocolate (split dark/light to your taste)
