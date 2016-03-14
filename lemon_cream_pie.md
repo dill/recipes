@@ -8,8 +8,8 @@ ingredients:
     1 1/2 cups : brown rice flour
     1/2 cup : cornstarch
     1/3 cup : dark brown sugar
-    1 tsp baking powder
-    1/2 tsp salt
+    1 tsp : baking powder
+    1/2 tsp : salt
     5 tbsp : butter, cold (or dairy-free shortening)
     6 tbsp : milk, traditional or dairy-free
     3 tbsp : honey
