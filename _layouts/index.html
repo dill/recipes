@@ -8,7 +8,10 @@
 
 
 {% for thispage in site.pages %}
-{% if (thispage.url != "/index.html") and (thispage.url != "/template.html") %}
+{% if (thispage.url != "/index.html") and (thispage.url != "/template.html") and
+      (thispage.url != "/redirects.json") and
+      (thispage.url != "/sitemap.xml") and
+      (thispage.url != "/robots.txt") %}
 <li><a href="{{site.baseurl}}{{ thispage.url }}">{{ thispage.title }}</a></li>
 {% endif %}
 {% endfor %}
