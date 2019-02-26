@@ -3,6 +3,7 @@ layout: recipe
 title: Carrot and coriander Soup
 source: Covent Garden Soup
 serves: 4-6
+keywords: soup
 ingredients:
   soup:
     25g : butter
