@@ -4,15 +4,16 @@ title: Carrot and coriander Soup
 source: Covent Garden Soup
 serves: 4-6
 ingredients:
-  25g : butter
-  1 : medium onion
-  1 : garlic clove
-  550g : carrots (450g roughly chopped and 110g coarsely grated)
-  1 litre : vegetable stock
-  A pinch : freshly grated nutmeg
-  1 tablespoon : chopped fresh coriander
-  150ml : single cream
-  wee bit : salt and freshly ground black pepper
+  soup:
+    25g : butter
+    1 : medium onion
+    1 : garlic clove
+    550g : carrots (450g roughly chopped and 110g coarsely grated)
+    1 litre : vegetable stock
+    A pinch : freshly grated nutmeg
+    1 tablespoon : chopped fresh coriander
+    150ml : single cream
+    wee bit : salt and freshly ground black pepper
 
 ---
 
