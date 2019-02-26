@@ -4,6 +4,7 @@ title: Melting potatoes
 source: https://smittenkitchen.com/2018/03/melting-potatoes/
 serves: ?
 ingredients:
+  potatoes:
     4 tbsp : unsalted butter, melted
     2 tsp : chopped fresh thyme/rosemary leaves
     1 tsp : kosher salt
