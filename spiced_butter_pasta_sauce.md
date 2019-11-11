@@ -4,17 +4,17 @@ title: Spiced butter pasta sauce
 source: Ottolenghi
 serves: 2?
 ingredients:
-    1/2 cup : unsalted butter
-    6 tbsp : olive oil
-    6-8 : small shallots, finely chopped
-    1 tsp : ground ginger
-    1 tsp : sweet paprika
-    1 tsp : ground corinader
-    1 tsp : ground cinnamon
-    ½ tsp : chili flakes
-    ½ tsp : ground turmeric
-    1 1/2 tsp : Kosher salt
-    to taste : Black pepper
+  1/2 cup : unsalted butter
+  6 tbsp : olive oil
+  6-8 : small shallots, finely chopped
+  1 tsp : ground ginger
+  1 tsp : sweet paprika
+  1 tsp : ground corinader
+  1 tsp : ground cinnamon
+  ½ tsp : chili flakes
+  ½ tsp : ground turmeric
+  1 1/2 tsp : Kosher salt
+  to taste : Black pepper
 
 ---
 
