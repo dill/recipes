@@ -4,16 +4,17 @@ title: Spiced Chickpea Stew With Coconut and Turmeric ("the stew")
 source: https://cooking.nytimes.com/recipes/1019772-spiced-chickpea-stew-with-coconut-and-turmeric
 serves: 4
 ingredients:
-  1/4 cup : olive oil
-  4 clove : garlic
-  1 : large yellow onion
-  1 (2-inch) piece : ginger
-  1 1/2 tsp : ground turmeric
-  1 tsp : red-pepper flakes
-  2 can : chickpeas
-  2 can : coconut milk
-  2 cups : veg stock
-  1 bunch : spinach/kale
+  stew:
+    1/4 cup : olive oil
+    4 clove : garlic
+    1 : large yellow onion
+    1 (2-inch) piece : ginger
+    1 1/2 tsp : ground turmeric
+    1 tsp : red-pepper flakes
+    2 can : chickpeas
+    2 can : coconut milk
+    2 cups : veg stock
+    1 bunch : spinach/kale
 
 ---
 
