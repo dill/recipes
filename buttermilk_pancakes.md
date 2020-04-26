@@ -4,17 +4,18 @@ title: banana and blueberry "buttermilk" pancakes
 source: https://smittenkitchen.com/2017/05/tall-fluffy-buttermilk-pancakes/
 serves: 2
 ingredients:
-  30g : unsalted butter
-  25g : granulated sugar
-  1   : large egg
-  1/4 tsp : vanilla extract
-  1 cup : milk
-  2 tbsp : yoghurt
-  1/4 tsp : salt
-  1/2 tsp : baking soda
-  130g : all-purpose flour
-  1 : banana
-  some : blueberries
+  pancakes: 
+    30g : unsalted butter
+    25g : granulated sugar
+    1   : large egg
+    1/4 tsp : vanilla extract
+    1 cup : milk
+    2 tbsp : yoghurt
+    1/4 tsp : salt
+    1/2 tsp : baking soda
+    130g : all-purpose flour
+    1 : banana
+    some : blueberries
 ---
 
 1. Heat oven to 100C
