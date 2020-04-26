@@ -1,17 +1,18 @@
 ---
 layout: recipe
 title: Spiced butter pasta sauce
-source: Ottolenghi
+source: Ottolenghi "Plenty"
 serves: 2?
 ingredients:
   sauce:
     1/2 cup : unsalted butter
     6 tbsp : olive oil
-    6-8 : small shallots, finely chopped
+    6-8 : small shallots (onions are fine!), finely chopped
     1 tsp : ground ginger
     1 tsp : sweet paprika
     1 tsp : ground corinader
     1 tsp : ground cinnamon
+    1 tsp : cayenne pepper
     ½ tsp : chili flakes
     ½ tsp : ground turmeric
     1 1/2 tsp : Kosher salt
