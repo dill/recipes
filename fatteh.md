@@ -8,7 +8,7 @@ ingredients:
     2 cups : chickpeas (hot)
     1 tsp : cumin
   sauce:
-    500g : yoghurt (Balkan Style preferred)
+    500g : yoghurt
     2 cloves:  garlic
     3 tbsp : lemon juice
     2 tbsp : tahini paste
