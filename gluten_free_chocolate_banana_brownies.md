@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Gluten free chocolate and banana brownies
+title: Gluten free chocolate end banana brownies
 source: adapted from https://www.dovesfarm.co.uk/recipes/gluten-free-chocolate-brownie/
 serves: depends
 ingredients:
